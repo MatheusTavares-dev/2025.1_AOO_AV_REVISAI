@@ -1,4 +1,4 @@
-# 📃 Requisitos do Sistema — Versão Ajustada
+# 📃 Requisitos do Sistema
 
 ## 🧑‍💼 Regras de Negócio (RN)
 
