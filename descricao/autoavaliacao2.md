@@ -16,7 +16,7 @@ _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, co
 > Aqui cada usuário deverá realizar sua descrição e realizar o envio com o seu nome para ficar registrado no github
 
 - Nome 1: Matheus de Jesus Tavares: contribui na construção de diagramas, nas ideias em grupo e colocando e organizando aqui no Github
-- Nome 2: 
+- Nome 2: Mirelle dos Santos Alves: contribui com o diagrama de componentes e com as discussões sobre o trabalho.
 - Nome 3: 
 - Nome 4: 
 
@@ -40,12 +40,13 @@ _Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, 
 ## 📚 Aprendizados
 **4. Qual o principal aprendizado técnico que você tirou deste trabalho?**  
 Matheus de Jesus Tavares: aprender os diagramas e poder usar mais o github pois praticando pude aprender cada vez mais.
+Mirelle dos Santos Alves: ter mais familiaridade com o github e compreender melhor os diagramas.
 
 ...
 
 **5. E pessoal (relacionado a trabalho em grupo, organização, etc)?**  
 Matheus de Jesus Tavares: todo trabalho em grupo tem suas dificuldades, afinal são varias opniões diferentes, mas nada que dificulte a organização
-
+Mirelle dos Santos Alves: a comunicação e a divisão de tarefas foram os pontos-chave para o trabalho em grupo.
 ...
 
 ---
@@ -66,4 +67,5 @@ _Justifique:_  acreditamos que seja excelente pelo fato de conseguir fazer todos
 ## ✍️ Sugestões para o professor
 **7. Alguma sugestão para melhorar este tipo de atividade ou avaliação no futuro?**  
 acredito que o professor acertou na forma de passar as atividade e de avaliação, sei que vamos sair dessa materia sabendo documentar um sistema, usar o github e fazer os diagramas.
+Mirelle dos Santos Alves: não tenho nada de sugestão, foi bem tranquila a entrega do que foi pedido, acredito que as sugestoes da primeira avaliação são o que devem ser analizadas.
 ...
