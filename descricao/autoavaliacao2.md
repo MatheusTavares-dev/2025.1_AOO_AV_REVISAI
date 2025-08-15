@@ -6,7 +6,7 @@
 
 ## 🗂️ Organização do Grupo
 **1. Como o grupo organizou as atividades? Houve divisão de tarefas?**
-as atividades primeiramente eram discutidas pelo grupo, e apos isso separava as tarefas que cada um tinha que fazer, seja se criar o diagrama ate anexar tudo aqui no github.
+As atividades primeiramente eram discutidas pelo grupo, e após isso separava as tarefas que cada um tinha que fazer, seja criar o diagrama até anexar tudo aqui no github. Mantivemos a mesma dinâmica do primeiro bimestre, que funcionou muito.
 _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, com revisões cruzadas ao final._
 
 ---
@@ -19,7 +19,7 @@ _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, co
 - Matheus de Jesus Tavares: Contribui na construção de diagramas, nas ideias em grupo e colocando e organizando aqui no Github
 - Matheus Yuri dos Santos Bomfim: Correção de diagramas, opinei junto aos outros sobre a melhor formar de apresentar os diagramas fazendo com que o nosso trabalho tenha mais coerência ao ser visualizado.
 - Mirelle dos Santos Alves: contribui com o diagrama de componentes e com as discussões sobre o trabalho.
-- Nome 5: 
+- Nalanda Victoria da Silva: Contribui na organiação das divisões de tarefas, construção de slide, bem como documentação/diagramas.
 
 
 
@@ -33,7 +33,7 @@ _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, co
 - [ ] Razoável (houve correria no final)
 - [ ] Ruim (atrasamos muito e isso prejudicou a entrega)
 
-_Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, mas não por conta de dificuldade do assunto e sim pelo fato de demandas de outras materias.
+_Justifique brevemente sua resposta:_  Tivemos alguns atrasos, mas nada crítico. Não por conta de dificuldade em relação ao assunto, e sim pelo fato de demandas de outras matérias.
 ...
 
 ---
@@ -44,6 +44,7 @@ _Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, 
 - Matheus de Jesus Tavares: aprender os diagramas e poder usar mais o github pois praticando pude aprender cada vez mais.
 - Matheus Yuri dos Santos Bomfim: Melhoria na organização, principalmente antes de começar a fazer o projeto.
 - Mirelle dos Santos Alves: ter mais familiaridade com o github e compreender melhor os diagramas.
+- Nalanda Victoria da Silva: Familiriadade com o GitHub e criação dos diagramas.
 ...
 
 **5. E pessoal (relacionado a trabalho em grupo, organização, etc)?**  
@@ -51,6 +52,7 @@ _Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, 
 - Matheus de Jesus Tavares: todo trabalho em grupo tem suas dificuldades, afinal são varias opniões diferentes, mas nada que dificulte a organização
 - Matheus Yuri dos Santos Bomfim: Trabalho em grupo sempre é divertido.
 - Mirelle dos Santos Alves: a comunicação e a divisão de tarefas foram os pontos-chave para o trabalho em grupo.
+- Nalanda Victoria da Silva: Trabalhar em grupo sempre me faz entender melhor sobre relações interpessoais e as personalidades com as quais melhor me adapto para trabalhar junto.
 ...
 
 ---
@@ -63,13 +65,14 @@ _Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, 
 - [ ] Regular
 - [ ] Abaixo do esperado
 
-_Justifique:_  acreditamos que seja excelente pelo fato de conseguir fazer todos os diagramas e pelo conhecimento que podemos ter com tudo isso, então temo com uma vitoria tudo isso.
+_Justifique:_  Acreditamos que seja excelente, pelo fato de conseguirmos fazer todos os diagramas e pelo conhecimento que pudemos ter com tudo isso, então consideramos uma vitória.
 ...
 
 ---
 
 ## ✍️ Sugestões para o professor
 **7. Alguma sugestão para melhorar este tipo de atividade ou avaliação no futuro?**  
-acredito que o professor acertou na forma de passar as atividade e de avaliação, sei que vamos sair dessa materia sabendo documentar um sistema, usar o github e fazer os diagramas.
+Acredito que o professor acertou na forma de passar as atividade e de avaliação, sei que vamos sair dessa matéria sabendo documentar um sistema, usar o github e fazer os diagramas.
 - Mirelle dos Santos Alves: não tenho nada de sugestão, foi bem tranquila a entrega do que foi pedido, acredito que as sugestoes da primeira avaliação são o que devem ser analizadas.
+- Nalanda Victoria da Silva: Gostei do método avaliativo, achei que consegui absorver bem e não me sobrecarregou.
 ...
