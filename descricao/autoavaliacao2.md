@@ -15,8 +15,8 @@ _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, co
 **2. O que você considera que mais contribuiu no projeto?**
 > Aqui cada usuário deverá realizar sua descrição e realizar o envio com o seu nome para ficar registrado no github
 
-- Nome 1: Matheus de Jesus Tavares: contribui na construção de diagramas, nas ideias em grupo e colocando e organizando aqui no Github
-- Nome 2: 
+- Matheus de Jesus Tavares: Contribui na construção de diagramas, nas ideias em grupo e colocando e organizando aqui no Github
+- Matheus Yuri dos Santos Bomfim: Correção de diagramas, opinei junto aos outros sobre a melhor formar de apresentar os diagramas fazendo com que o nosso trabalho tenha mais coerência ao ser visualizado.
 - Nome 3: 
 - Nome 4: 
 
@@ -40,11 +40,13 @@ _Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, 
 ## 📚 Aprendizados
 **4. Qual o principal aprendizado técnico que você tirou deste trabalho?**  
 Matheus de Jesus Tavares: aprender os diagramas e poder usar mais o github pois praticando pude aprender cada vez mais.
+Matheus Yuri dos Santos Bomfim: Melhoria na organização, principalmente antes de começar a fazer o projeto.
 
 ...
 
 **5. E pessoal (relacionado a trabalho em grupo, organização, etc)?**  
 Matheus de Jesus Tavares: todo trabalho em grupo tem suas dificuldades, afinal são varias opniões diferentes, mas nada que dificulte a organização
+Matheus Yuri dos Santos Bomfim: Trabalho em grupo sempre é divertido.
 
 ...
 
