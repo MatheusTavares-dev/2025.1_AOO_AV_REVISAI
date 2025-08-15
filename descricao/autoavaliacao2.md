@@ -40,17 +40,17 @@ _Justifique brevemente sua resposta:_  Tivemos alguns atrasos mas nada critico, 
 
 ## 📚 Aprendizados
 **4. Qual o principal aprendizado técnico que você tirou deste trabalho?**  
-Ataíde Mateus Gualberto dos Santos: Aprendi mais sobre a documentação de projetos e a usar o PlantUML.
-Matheus de Jesus Tavares: aprender os diagramas e poder usar mais o github pois praticando pude aprender cada vez mais.
-Matheus Yuri dos Santos Bomfim: Melhoria na organização, principalmente antes de começar a fazer o projeto.
-Mirelle dos Santos Alves: ter mais familiaridade com o github e compreender melhor os diagramas.
+- Ataíde Mateus Gualberto dos Santos: Aprendi mais sobre a documentação de projetos e a usar o PlantUML.
+- Matheus de Jesus Tavares: aprender os diagramas e poder usar mais o github pois praticando pude aprender cada vez mais.
+- Matheus Yuri dos Santos Bomfim: Melhoria na organização, principalmente antes de começar a fazer o projeto.
+- Mirelle dos Santos Alves: ter mais familiaridade com o github e compreender melhor os diagramas.
 ...
 
 **5. E pessoal (relacionado a trabalho em grupo, organização, etc)?**  
-Ataíde Mateus Gualberto dos Santos: Todo trabalho em grupo tem vantagens e desvantagens, mas as vantagens de trabalhar com este grupo superam (e muito) as desvantagens.
-Matheus de Jesus Tavares: todo trabalho em grupo tem suas dificuldades, afinal são varias opniões diferentes, mas nada que dificulte a organização
-Matheus Yuri dos Santos Bomfim: Trabalho em grupo sempre é divertido.
-Mirelle dos Santos Alves: a comunicação e a divisão de tarefas foram os pontos-chave para o trabalho em grupo.
+- Ataíde Mateus Gualberto dos Santos: Todo trabalho em grupo tem vantagens e desvantagens, mas as vantagens de trabalhar com este grupo superam (e muito) as desvantagens.
+- Matheus de Jesus Tavares: todo trabalho em grupo tem suas dificuldades, afinal são varias opniões diferentes, mas nada que dificulte a organização
+- Matheus Yuri dos Santos Bomfim: Trabalho em grupo sempre é divertido.
+- Mirelle dos Santos Alves: a comunicação e a divisão de tarefas foram os pontos-chave para o trabalho em grupo.
 ...
 
 ---
@@ -71,5 +71,5 @@ _Justifique:_  acreditamos que seja excelente pelo fato de conseguir fazer todos
 ## ✍️ Sugestões para o professor
 **7. Alguma sugestão para melhorar este tipo de atividade ou avaliação no futuro?**  
 acredito que o professor acertou na forma de passar as atividade e de avaliação, sei que vamos sair dessa materia sabendo documentar um sistema, usar o github e fazer os diagramas.
-Mirelle dos Santos Alves: não tenho nada de sugestão, foi bem tranquila a entrega do que foi pedido, acredito que as sugestoes da primeira avaliação são o que devem ser analizadas.
+- Mirelle dos Santos Alves: não tenho nada de sugestão, foi bem tranquila a entrega do que foi pedido, acredito que as sugestoes da primeira avaliação são o que devem ser analizadas.
 ...
