@@ -6,7 +6,7 @@
 
 ## 🗂️ Organização do Grupo
 **1. Como o grupo organizou as atividades? Houve divisão de tarefas?**
-As atividades primeiramente eram discutidas pelo grupo, e após isso separava as tarefas que cada um tinha que fazer, seja criar o diagrama até anexar tudo aqui no github. Mantivemos a mesma dinâmica do primeiro bimestre, que funcionou muito.
+As atividades primeiramente eram discutidas pelo grupo, e após isso separava as tarefas que cada um tinha que fazer, seja criar o diagrama até anexar tudo aqui no github. Mantivemos a mesma dinâmica do primeiro bimestre, que funcionou muito. Fazíamos os diagramas juntos e Matheus Tavares geralmente ficava responsável por subir os diagramas aqui no GitHub. Nalanda Victoria geralmente ficava responsável por alguma criação visual, de slides ou documentação. Matheus Yuri, Mirelle e Ataíde estavam mais focados na criação principal dos diagramas.
 _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, com revisões cruzadas ao final._
 
 ---
